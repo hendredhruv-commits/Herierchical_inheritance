@@ -1,0 +1,253 @@
+#include<iostream>
+using namespace std;
+
+class Employee
+{
+public:
+void showEmployee()
+    {
+        cout << "Employee ID : 103";
+        cout << "Employee Name : Ajit";
+    }
+};
+
+class Developer : public Employee
+{
+public:
+void showDeveloper()
+{
+    cout << "Role :Software Developer" ;
+    cout << "Salary : 1,00,000/-\n";
+}
+};
+
+class Manager : public Employee
+{
+public :
+    void showManager()
+    {
+        cout << " Role : Project Manager ";
+    }
+};
+
+int main()
+{
+Developer d;
+Manager m;
+
+cout << "\t After Promotion Manager Details :";
+m.showEmployee();
+m.showManager();
+
+return 0;
+}#include<iostream>
+using namespace std;
+
+class Employee
+{
+public:
+void showEmployee()
+    {
+        cout << "Employee ID : 103";
+        cout << "Employee Name : Ajit";
+    }
+};
+
+class Developer : public Employee
+{
+public:
+void showDeveloper()
+{
+    cout << "Role :Software Developer" ;
+    cout << "Salary : 1,00,000/-\n";
+}
+};
+
+class Manager : public Employee
+{
+public :
+    void showManager()
+    {
+        cout << " Role : Project Manager ";
+    }
+};
+
+int main()
+{
+Developer d;
+Manager m;
+
+cout << "\t After Promotion Manager Details :";
+m.showEmployee();
+m.showManager();
+
+return 0;
+}#include<iostream>
+using namespace std;
+
+class Employee
+{
+public:
+void showEmployee()
+    {
+        cout << "Employee ID : 103";
+        cout << "Employee Name : Ajit";
+    }
+};
+
+class Developer : public Employee
+{
+public:
+void showDeveloper()
+{
+    cout << "Role :Software Developer" ;
+    cout << "Salary : 1,00,000/-\n";
+}
+};
+
+class Manager : public Employee
+{
+public :
+    void showManager()
+    {
+        cout << " Role : Project Manager ";
+    }
+};
+
+int main()
+{
+Developer d;
+Manager m;
+
+cout << "\t After Promotion Manager Details :";
+m.showEmployee();
+m.showManager();
+
+return 0;
+}#include<iostream>
+using namespace std;
+
+class Employee
+{
+public:
+void showEmployee()
+    {
+        cout << "Employee ID : 103";
+        cout << "Employee Name : Ajit";
+    }
+};
+
+class Developer : public Employee
+{
+public:
+void showDeveloper()
+{
+    cout << "Role :Software Developer" ;
+    cout << "Salary : 1,00,000/-\n";
+}
+};
+
+class Manager : public Employee
+{
+public :
+    void showManager()
+    {
+        cout << " Role : Project Manager ";
+    }
+};
+
+int main()
+{
+Developer d;
+Manager m;
+
+cout << "\t After Promotion Manager Details :";
+m.showEmployee();
+m.showManager();
+
+return 0;
+}#include<iostream>
+using namespace std;
+
+class Employee
+{
+public:
+void showEmployee()
+    {
+        cout << "Employee ID : 103";
+        cout << "Employee Name : Ajit";
+    }
+};
+
+class Developer : public Employee
+{
+public:
+void showDeveloper()
+{
+    cout << "Role :Software Developer" ;
+    cout << "Salary : 1,00,000/-\n";
+}
+};
+
+class Manager : public Employee
+{
+public :
+    void showManager()
+    {
+        cout << " Role : Project Manager ";
+    }
+};
+
+int main()
+{
+Developer d;
+Manager m;
+
+cout << "\t After Promotion Manager Details :";
+m.showEmployee();
+m.showManager();
+
+return 0;
+}#include<iostream>
+using namespace std;
+
+class Employee
+{
+public:
+void showEmployee()
+    {
+        cout << "Employee ID : 103";
+        cout << "Employee Name : Ajit";
+    }
+};
+
+class Developer : public Employee
+{
+public:
+void showDeveloper()
+{
+    cout << "Role :Software Developer" ;
+    cout << "Salary : 1,00,000/-\n";
+}
+};
+
+class Manager : public Employee
+{
+public :
+    void showManager()
+    {
+        cout << " Role : Project Manager ";
+    }
+};
+
+int main()
+{
+Developer d;
+Manager m;
+
+cout << "\t After Promotion Manager Details :";
+m.showEmployee();
+m.showManager();
+
+return 0;
+}
